@@ -1,0 +1,15 @@
+There are multiple data sources in this report. 
+The semantic model follows a Star Schema. 
+
+Fact Tables - 
+1. FactInternational_Credit_Portfolio -
+    Storage - DirectQuery 
+    Source - Enterprise Data Lake
+    Connection Type - ODBC
+    SQL Query - check the import page. 
+
+
+      
+
+
+  
