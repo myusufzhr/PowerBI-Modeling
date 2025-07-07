@@ -5,10 +5,4 @@ Purpose:
   2. Ensure the quality of data used in Enterprise Stress Model.
   3. Monitor performance of different retail credit portfolios such as mortgage, credit cards etc. 
 
-**Sources** - 
-  Source1 - FactChileRetailCreditPortfolio
-  Location - Enterprise Data Lake 
-  Connection with PowerBI - ODBC
-  Model storage - DirectQuery 
-  SQL Code - view in import tab
-  
+**Sources** - Check Source Page
