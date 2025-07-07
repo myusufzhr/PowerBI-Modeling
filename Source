@@ -34,8 +34,8 @@ The semantic model follows a **Star Schema**.
     SQL Query - check the import pages
 
 3. **Dates** - 
-    storage - dual
-    source - Created table and measures
-    measure - check the import pages
+    Storage - Dual
+    Source - Created table and measures
+    Measures - check the import pages
 
 
