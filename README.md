@@ -1,4 +1,4 @@
-# Retail Credit Portfolio Reconciliation & Monitoring (Power BI Report)
+# Retail Credit Portfolio KPI Monitoring and Reconciliation (Power BI Report)
 
 This Power BI report extracts data from Hive (Enterprise Data Lake) and integrates it with external files shared by local teams. It performs transformations within Power BI to support analytical and reporting needs.
 
