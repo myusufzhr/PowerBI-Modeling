@@ -14,4 +14,4 @@ This Power BI report extracts data from Hive (Enterprise Data Lake) and integrat
 - SQL (for queries against the lake)
 
 ## 🔗 Data Sources
-For details on fact and dimension tables, data types, and query methods, refer to the [Source Information](./Source.md).
+For details on fact and dimension tables, data types, and query methods, refer to the [Source Information](./Source).
